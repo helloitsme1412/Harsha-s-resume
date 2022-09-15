@@ -68,6 +68,9 @@ img{
 .contactinfo ul{
     position: relative;
 }
+.anchor{
+    color: black;
+}
 a{
     color: #fff;
     font-weight: 300;
